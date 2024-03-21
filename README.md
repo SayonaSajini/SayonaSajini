@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, NodeJS, ReactJS, Python, Java**
 
-- 👨‍💻 Visit My Digital Badges (CCNA,AWS,DevNet) [https://www.credly.com/users/sayona-sajini](https://www.credly.com/users/sayona-sajini)
+- 👨‍💻 See My Digital Badges (CCNA,AWS,DevNet) [https://www.credly.com/users/sayona-sajini](https://www.credly.com/users/sayona-sajini)
 
 - 💬 Ask me about **Python, Java,web languages**
 
