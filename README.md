@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayona Sajini</h1>
-<h3 align="center">enthusiastic full stack web developer</h3>
+<h3 align="center">I am Learning Full Stack Development(web focused) + Data Science and ML with python </h3>
 
-- 🔭 I’m currently working on [mapVisualizationProject](https://github.com/SaiSayona/mapVisualizationPython.git)
+- 🔭 I’m currently working on developing complex web systems, mastering python for Data Science and ML
 
 - 🌱 I’m currently learning **Laravel, NodeJS, ReactJS, Python, Java**
 
