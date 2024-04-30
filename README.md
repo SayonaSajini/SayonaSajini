@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayona Sajini</h1>
 <h3 align="center">Full Stack Development(web focused) + Data Science and ML with python</h3>
 
-- 🔭 I’m currently working on **developing complex web systems, mastering python for Data Science and ML.**
+- 🔭 I’m currently working on **developing web systems, mastering python for Data Science**
 
-- 🌱 I’m currently learning **Laravel, NodeJS, ReactJS, Python, Java**
+- 🌱 I’m currently learning **Laravel, NodeJS, ReactJS, Python, JavaScript**
 
 - 👨‍💻 See My Digital Badges (CCNA,AWS,DevNet) [https://www.credly.com/users/sayona-sajini](https://www.credly.com/users/sayona-sajini)
 
-- 💬 Ask me about **Python, Java,web languages**
+- 💬 Ask me about **Python, php,JavaScript**
 
 - 📫 How to reach me **sayonasajini2000@gmail.com**
 
